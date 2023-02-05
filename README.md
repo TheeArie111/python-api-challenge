@@ -27,19 +27,23 @@ In this deliverable, you'll create a Python script to visualize the weather of o
 ## Latitude vs. Temperature
 ![](WeatherPy/output_data/Fig1.png)
 ![](WeatherPy/output_data/Fig2.png)
+
 **Discussion about the linear relationship:** In the northern hemisphere, there appears to be a strong relationship between the latitude and temperature. However, in the southern hemisphere the relationship is significantly weaker.
 
 ## Latitude vs. Humidity
 ![](WeatherPy/output_data/Fig3.png)
 ![](WeatherPy/output_data/Fig4.png)
+
 **Discussion about the linear relationship:** In both the northern and southern hemisphere, there is a very weak relationship between the latitude and the humidity levels.
 
 ## Latitude vs. Cloudiness
 ![](WeatherPy/output_data/Fig5.png)
 ![](WeatherPy/output_data/Fig6.png)
+
 **Discussion about the linear relationship:** In the northern hemisphere, there is essentially no relationship between cloudiness and the latitude. And in the southern hemisphere, the relationship is weak, but not as small for the northern hemisphere.
 
 ## Latitude vs. Wind Speed
 ![](WeatherPy/output_data/Fig7.png)
 ![](WeatherPy/output_data/Fig8.png)
+
 **Discussion about the linear relationship:** There is virtually no relationship at all between latitude and wind speed.
